@@ -1,0 +1,16 @@
+title: Cairenna Developer Guide
+description: Local setup, runtime options, and architecture details for the Cairenna mental health platform.
+theme: just-the-docs
+
+url: https://cairenna.github.io
+
+aux_links:
+  GitHub Repository: https://github.com/Soontosh/cairenna
+
+callouts:
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
