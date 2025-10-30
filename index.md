@@ -1,5 +1,5 @@
 ---
-title: Cairenna Developer Guide
+title: Cairenna Docs & Guide
 layout: home
 nav_order: 1
 ---
