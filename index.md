@@ -1,5 +1,5 @@
 ---
-title: Cairenna Docs & Guide
+title: Cairenna Docs
 layout: home
 nav_order: 1
 ---
