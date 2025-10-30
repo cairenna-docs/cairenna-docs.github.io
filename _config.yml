@@ -1,6 +1,9 @@
 title: Cairenna Developer Guide
 description: Local setup, runtime options, and architecture details for the Cairenna mental health platform.
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.10.1
+plugins:
+  - jekyll-include-cache
+  - jekyll-seo-tag
 
 url: https://cairenna-docs.github.io
 
